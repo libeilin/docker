@@ -1,3 +1,3 @@
 
-FROM gcr.io/google_containers/etcd:2.2.5
+FROM gcr.io/google_containers/etcd
 MAINTAINER silenceshell <silenceshell@datastart.cn>
